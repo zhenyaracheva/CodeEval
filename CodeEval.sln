@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lowercase", "Lowercase\Lowe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumbers\PrimeNumber.csproj", "{C0971541-C4B9-4C2C-9852-15D8704D8389}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MthToLastElement", "MthToLastElement\MthToLastElement.csproj", "{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsecutivePrimes", "ConsecutivePrimes\ConsecutivePrimes.csproj", "{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{C0971541-C4B9-4C2C-9852-15D8704D8389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0971541-C4B9-4C2C-9852-15D8704D8389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0971541-C4B9-4C2C-9852-15D8704D8389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
