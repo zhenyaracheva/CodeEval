@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MthToLastElement", "MthToLastElement\MthToLastElement.csproj", "{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsecutivePrimes", "ConsecutivePrimes\ConsecutivePrimes.csproj", "{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParantheses", "ValidParantheses\ValidParantheses.csproj", "{2712A3E0-8E1D-4659-A2A9-6786589800F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,10 @@ Global
 		{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6338F9C-63B9-4992-A2CE-B50CAE8E1CCE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4164A3E4-3559-4A0F-903C-0313ADCFC1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2712A3E0-8E1D-4659-A2A9-6786589800F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2712A3E0-8E1D-4659-A2A9-6786589800F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2712A3E0-8E1D-4659-A2A9-6786589800F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2712A3E0-8E1D-4659-A2A9-6786589800F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
