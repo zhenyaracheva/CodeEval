@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RobotMovements")]
+[assembly: AssemblyTitle("StringRotation")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RobotMovements")]
+[assembly: AssemblyProduct("StringRotation")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4456b29f-a92f-4ba6-a578-811dbe77ea3d")]
+[assembly: Guid("b49d366f-c3ce-4560-88c0-d74b1274f8ec")]
 
 // Version information for an assembly consists of the following four values:
 //

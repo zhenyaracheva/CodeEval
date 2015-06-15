@@ -11,8 +11,8 @@
         private const char DeadCell = '.';
         public static void Main(string[] args)
         {
-             using (StreamReader reader = File.OpenText(args[0]))
-            //using (StreamReader reader = new StreamReader("input.txt"))
+            // using (StreamReader reader = File.OpenText(args[0]))
+            using (StreamReader reader = new StreamReader("input.txt"))
             {
                 char[,] currerntGeneration;
                 int n = 0;

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAB8B2BD-AA99-476B-B59B-DFEDA1DE0B4B}</ProjectGuid>
+    <ProjectGuid>{F4AA16D9-1F0B-47E3-AE89-0D41F6A73E38}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RobotMovements</RootNamespace>
-    <AssemblyName>RobotMovements</AssemblyName>
+    <RootNamespace>StringRotation</RootNamespace>
+    <AssemblyName>StringRotation</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RobotMovementsSolver.cs" />
+    <Compile Include="StringRotationSolver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
