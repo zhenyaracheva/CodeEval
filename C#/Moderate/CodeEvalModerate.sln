@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JollyJumpers", "JollyJumper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseGroups", "ReverseGroups\ReverseGroups.csproj", "{4C9C5ECB-53D6-4F1A-8F97-68BBA7D531A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaviusJosephus", "FlaviusJosephus\FlaviusJosephus.csproj", "{C7D59C9A-6711-43A1-A16A-182231650D11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{4C9C5ECB-53D6-4F1A-8F97-68BBA7D531A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C9C5ECB-53D6-4F1A-8F97-68BBA7D531A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C9C5ECB-53D6-4F1A-8F97-68BBA7D531A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D59C9A-6711-43A1-A16A-182231650D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D59C9A-6711-43A1-A16A-182231650D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D59C9A-6711-43A1-A16A-182231650D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D59C9A-6711-43A1-A16A-182231650D11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
