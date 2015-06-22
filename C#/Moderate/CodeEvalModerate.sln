@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaviusJosephus", "FlaviusJ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailingString", "TrailingString\TrailingString.csproj", "{3C0CE496-2700-4E9B-B990-4BF0C27DCDB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "Pangrams\Pangrams.csproj", "{62C56CBD-9E22-423D-B3DB-83E4CB4C9183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3C0CE496-2700-4E9B-B990-4BF0C27DCDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C0CE496-2700-4E9B-B990-4BF0C27DCDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C0CE496-2700-4E9B-B990-4BF0C27DCDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C56CBD-9E22-423D-B3DB-83E4CB4C9183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C56CBD-9E22-423D-B3DB-83E4CB4C9183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C56CBD-9E22-423D-B3DB-83E4CB4C9183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C56CBD-9E22-423D-B3DB-83E4CB4C9183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
