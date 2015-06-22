@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMask", "stringMask\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxRangeSum", "MaxRangeSum\MaxRangeSum.csproj", "{EF984F4C-1D7D-43A1-8D3D-30D6050F9865}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexToDecimal", "HexToDecimal\HexToDecimal.csproj", "{A3AFDBEC-3EBB-416F-8BBF-14B320E7934C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EF984F4C-1D7D-43A1-8D3D-30D6050F9865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF984F4C-1D7D-43A1-8D3D-30D6050F9865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF984F4C-1D7D-43A1-8D3D-30D6050F9865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AFDBEC-3EBB-416F-8BBF-14B320E7934C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AFDBEC-3EBB-416F-8BBF-14B320E7934C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AFDBEC-3EBB-416F-8BBF-14B320E7934C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AFDBEC-3EBB-416F-8BBF-14B320E7934C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
