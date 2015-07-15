@@ -1,4 +1,4 @@
-﻿namespace _2048
+﻿namespace TwentyFortyEight
 {
     using System;
     using System.IO;
@@ -136,7 +136,7 @@
             {
                 var liderPositionRow = 0;
                 var liderValue = gameBoard[liderPositionRow, col];
-              
+
                 for (int row = 1; row < gameBoard.GetLength(0); row++)
                 {
                     if (liderValue != 0 && liderValue == gameBoard[row, col])
@@ -179,7 +179,7 @@
             {
                 var liderPositionCol = 0;
                 var liderValue = gameBoard[row, liderPositionCol];
-                
+
                 for (int col = 1; col < gameBoard.GetLength(1); col++)
                 {
                     if (liderValue != 0 && liderValue == gameBoard[row, col])

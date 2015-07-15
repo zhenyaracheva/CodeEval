@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LongestPath")]
+[assembly: AssemblyTitle("TwentyFortyEight")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LongestPath")]
+[assembly: AssemblyProduct("TwentyFortyEight")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("906755cd-8b51-422c-a7ac-4e5a2e55b723")]
+[assembly: Guid("2cbae2d7-ef8b-4455-8832-0ec899e7d582")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -31,6 +31,17 @@ C#
     16. The Ministry Of Truth
     17. Trailing String
     18. 2048
+    19. Counting Primes
+    20. Decimal To Binary
+    21. First Non-Repeated Character
+    22. Longest Line
+    23. Mth To Last Element
+    24. Number Of Ones
+    25. Pascal Triangle
+    26. Prime Numbers
+    27. Remove Characters
+    28. Reverse And Add
+    29. Valid Parantheses
     
   Hard Level:
     1.  Longest Common Subsequence
