@@ -5,6 +5,7 @@ Solved Problems
 C#
 
   Easy Level:
+  
     1.  Hex To Decimal.
     2.  Max Range Sum.
     3.  Sum Of Digits.
@@ -13,6 +14,7 @@ C#
     6.  Swap Numbers.
     
   Moderate Level:
+  
     1.  Array Absurdity
     2.  Card Number Validation
     3.  Column Names
@@ -44,6 +46,7 @@ C#
     29. Valid Parantheses
     
   Hard Level:
+  
     1.  Longest Common Subsequence
     2.  Spiral Printing
     3.  Text Dollar
@@ -53,6 +56,7 @@ C#
 JavaScript
 
   Easy Level:
+  
     1.  Even Numbers
     2.  Hex To Decimal
     3.  Max Range Sum
@@ -60,6 +64,7 @@ JavaScript
     5.  Sum Of  Digits
     
   Moderate Level:
+  
     1.  Flavius Josephus
     2.  Interrupted Bubble Sort
     3.  Jolly Jumpers
@@ -70,4 +75,5 @@ JavaScript
     8.  Trailing String
     
   Hard Level:
+  
     1.  String Searching
