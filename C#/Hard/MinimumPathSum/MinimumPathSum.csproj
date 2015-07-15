@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C1FE87C-040F-4764-8F89-4742EA1C2F27}</ProjectGuid>
+    <ProjectGuid>{61BAA3D7-41E2-4930-93EB-55E2B17C3A90}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MinimumPathSum</RootNamespace>

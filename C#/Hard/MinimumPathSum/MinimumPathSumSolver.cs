@@ -16,10 +16,10 @@
             {
                 var line = reader.ReadLine();
 
-                while(line != null)
+                while (line != null)
                 {
                     var n = int.Parse(line);
-                    var matrix = ReadMatrix(reader,n);
+                    var matrix = ReadMatrix(reader, n);
 
                     for (int i = 1; i < n; i++)
                     {
@@ -54,7 +54,7 @@
                 for (int j = 0; j < n; j++)
                 {
                     matrix[i, j] = line[j];
-                }                
+                }
             }
 
             return matrix;
